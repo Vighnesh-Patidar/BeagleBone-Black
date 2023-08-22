@@ -26,7 +26,7 @@ git submodule add <url> tmp/work-shared/beaglebone-yocto/kernel-source
 clone
 ```
 git clone <URLs of listed files>
-```
+
  tmp/work/all-poky-linux/update-rc.d/0.8-r0/git
  tmp/work/beaglebone_yocto-poky-linux-gnueabi/linux-yocto/5.4.58+gitAUTOINC+25f38de25d_706efec4c1-r0/kernel-meta
  tmp/work/beaglebone_yocto-poky-linux-gnueabi/u-boot/1_2020.01-r0/git
@@ -76,3 +76,4 @@ git clone <URLs of listed files>
  tmp/work/x86_64-linux/shared-mime-info-native/1.15-r0/git
  tmp/work/x86_64-linux/squashfs-tools-native/4.4-r0/git
  tmp/work/x86_64-linux/update-rc.d-native/0.8-r0/git
+```
