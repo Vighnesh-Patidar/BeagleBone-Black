@@ -15,5 +15,5 @@ The layer for this build is cloned from dunfell branch of the Yocto project. It 
 ```
 git checkout dunfell
 ```
-# The future builds in this repo will be using kirkstone as it is a newer branch with Long term support.
-# This file contains the image obtained after parsing the layers with bitbake, you can just flash it on a partitioned SD card and it will be able to just bootup a beaglebone.
+ The future builds in this repo will be using kirkstone as it is a newer branch with Long term support.
+ This file contains the image obtained after parsing the layers with bitbake, you can just flash it on a partitioned SD card and it will be able to just bootup a beaglebone.
