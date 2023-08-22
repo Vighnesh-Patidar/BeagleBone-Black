@@ -1,0 +1,4 @@
+SANITY_VERSION 1
+TMPDIR /home/vighnesh/Project/Yocto/build-disco/tmp
+SSTATE_DIR /home/vighnesh/Project/Yocto/build-disco/sstate-cache
+NATIVELSBSTRING ubuntu-20.04
